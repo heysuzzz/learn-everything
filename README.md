@@ -1,3 +1,9 @@
+# current pathways
+- [] Python refresher
+- [] Python Cookbook (book)
+- [] Code (book)
+- [] How Linix Works (book)
+
 # overview
 
 *note to Corinne*: check out my wiki. Let's try and agree on an overall learning pathway, that way we'll be able to work on the same things at the same times.
