@@ -1,8 +1,17 @@
-# current pathways
-- [] Python refresher
-- [] Python Cookbook (book)
-- [] Code (book)
-- [] How Linix Works (book)
+### current pathways
+- Python refresher
+- Code (book)
+- How Linux Works (book)
+
+### next pathways
+- Pro Git (book)
+- Code challenges
+- Python Cookbook (book)
+
+### after that
+- Python docs
+- Bash docs
+- Standard libraries
 
 # overview
 
