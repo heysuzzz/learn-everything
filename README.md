@@ -1,17 +1,20 @@
 ### current pathways
-- Python refresher
-- Code (book)
-- How Linux Works (book)
+- Python refresher.
+- Pro Git (book).
+- How Linux Works (book).
 
 ### next pathways
-- Pro Git (book)
-- Code challenges
-- Python Cookbook (book)
+- Linear algebra.
+- Find a daily pythonic coding challenge.
+- Select another python book.
+- Select a Bash book (docs?).
 
 ### after that
-- Python docs
-- Bash docs
-- Standard libraries
+- Python standard docs.
+- Python standard libraries (numpy, etc.).
+- Python common libraries (nltk).
+- Stats
+- Calculus
 
 # overview
 
