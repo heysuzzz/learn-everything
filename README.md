@@ -15,6 +15,7 @@
 - Python common libraries (nltk).
 - Stats
 - Calculus
+- Python web stuff (flask, django, web.py, etc). 
 
 # overview
 
