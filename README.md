@@ -8,7 +8,7 @@
 - How Linux Works (book).
 
 ### next pathways
-- Linear algebra.
+- Calculus (graph functions in Python).
 - Find a daily pythonic coding challenge.
 - Select another python book.
 - Select a Bash book (docs?).
@@ -18,7 +18,7 @@
 - Python standard libraries (numpy, etc.).
 - Python common libraries (nltk).
 - Stats
-- Calculus
+- Linear algebra (implement matrixes in R).
 - Python web stuff (flask, django, web.py, etc). 
 
 # overview
