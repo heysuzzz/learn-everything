@@ -1,5 +1,9 @@
+### progress so far 
+- Finished LPTHW tutorial.
+- Read "Code" book.
+ 
 ### current pathways
-- Python refresher.
+- Python standard docs. 
 - Pro Git (book).
 - How Linux Works (book).
 
