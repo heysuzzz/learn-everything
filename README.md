@@ -1,3 +1,7 @@
+### dig deeper
+- $PATH environment variable and environment variables in general
+- testing in Python 
+
 ### progress so far 
 - Finished LPTHW tutorial.
 - Read "Code" book.
